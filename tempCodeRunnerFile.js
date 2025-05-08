@@ -1,0 +1,2 @@
+sayHi('susan')
+// sayHi(john)
